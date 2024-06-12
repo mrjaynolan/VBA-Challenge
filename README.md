@@ -29,7 +29,8 @@ Greatest Total Volume: The stock with the highest total volume
 Visual Representation
 
 Screenshot 1: Q1
-[](https://github.com/mrjaynolan/VBA-Challenge/blob/main/images/Screenshot%202024-06-12%20at%2012.30.32%E2%80%AFAM.png)
+![<img width="1504" alt="Screenshot 2024-06-12 at 12 30 32 AM" src="https://github.com/mrjaynolan/VBA-Challenge/assets/170381153/441ac25f-6d28-484c-906c-f46bf09c4a52">
+(https://github.com/mrjaynolan/VBA-Challenge/blob/main/images/Screenshot%202024-06-12%20at%2012.30.32%E2%80%AFAM.png)
 
 Screenshot 2: Q2
 
