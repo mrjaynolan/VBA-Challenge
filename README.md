@@ -1,5 +1,4 @@
 # Multiple Year Stock Data Analysis
-Module 2 VBA Challenge assignment
 
 This README explains the structure and functionality of the Excel workbook designed for analyzing multiple years of stock data. The workbook processes stock data, calculates key metrics, and identifies stocks with the greatest percentage increase, greatest percentage decrease, and highest total volume. Below is an overview of what each part of the workbook does, with visual aids to enhance understanding.
 
@@ -29,20 +28,16 @@ Greatest Total Volume: The stock with the highest total volume
 Visual Representation
 
 Screenshot 1: Q1
-![<img width="1504" alt="Screenshot 2024-06-12 at 12 30 32 AM" src="https://github.com/mrjaynolan/VBA-Challenge/assets/170381153/441ac25f-6d28-484c-906c-f46bf09c4a52">
-(https://github.com/mrjaynolan/VBA-Challenge/blob/main/images/Screenshot%202024-06-12%20at%2012.30.32%E2%80%AFAM.png)
+<img width="1504" alt="Screenshot 2024-06-12 at 12 30 32 AM" src="https://github.com/mrjaynolan/VBA-Challenge/assets/170381153/441ac25f-6d28-484c-906c-f46bf09c4a52">
 
 Screenshot 2: Q2
-
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/VBA-Challenge/images/Screenshot 2024-06-12 at 12.30.45 AM.png
+<img width="1505" alt="Screenshot 2024-06-12 at 12 30 45 AM" src="https://github.com/mrjaynolan/VBA-Challenge/assets/170381153/5926e2bd-ff27-4d63-83f8-de6ac59475e2">
 
 Screenshot 3: Q3
-
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/VBA-Challenge/images/Screenshot 2024-06-12 at 12.30.57 AM.png
+<img width="1508" alt="Screenshot 2024-06-12 at 12 30 57 AM" src="https://github.com/mrjaynolan/VBA-Challenge/assets/170381153/2d14d4e4-1f34-4a07-90a7-334f3ae1ddb9">
 
 Screenshot 4: Q4
-
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/VBA-Challenge/images/Screenshot 2024-06-12 at 12.31.09 AM.png
+<img width="1507" alt="Screenshot 2024-06-12 at 12 31 09 AM" src="https://github.com/mrjaynolan/VBA-Challenge/assets/170381153/94ae1418-1b02-4ddc-b61b-cc46839eb937">
 
 The final screenshot displays the summary of results, highlighting the stocks with the greatest percentage increase, greatest percentage decrease, and highest total volume.
 
