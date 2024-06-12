@@ -1,4 +1,4 @@
-# Multiple Year Stoack Data Analysis
+# Multiple Year Stock Data Analysis
 Module 2 VBA Challenge assignment
 
 This README explains the structure and functionality of the Excel workbook designed for analyzing multiple years of stock data. The workbook processes stock data, calculates key metrics, and identifies stocks with the greatest percentage increase, greatest percentage decrease, and highest total volume. Below is an overview of what each part of the workbook does, with visual aids to enhance understanding.
@@ -29,8 +29,7 @@ Greatest Total Volume: The stock with the highest total volume
 Visual Representation
 
 Screenshot 1: Q1
-
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/VBA-Challenge/images/Screenshot 2024-06-12 at 12.30.32 AM.png
+[](https://github.com/mrjaynolan/VBA-Challenge/blob/main/images/Screenshot%202024-06-12%20at%2012.30.32%E2%80%AFAM.png)
 
 Screenshot 2: Q2
 
